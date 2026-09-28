@@ -1,4 +1,4 @@
-![CI](https://github.com/<github-username>/K4-L3A-DAY12-NguyenXuanTruongGiang-2A202602446-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/GiangDA881/K4-L3A-DAY12-NguyenXuanTruongGiang-2A202602446-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)
 
 # K4 — Level 3A, Ngày 12: Hạ Tầng Cloud & Deployment (240 phút)
 

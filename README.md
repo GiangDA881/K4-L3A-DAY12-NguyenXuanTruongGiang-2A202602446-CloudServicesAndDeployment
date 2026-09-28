@@ -1,4 +1,8 @@
+![CI](https://github.com/<github-username>/K4-L3A-DAY12-NguyenXuanTruongGiang-2A202602446-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)
+
 # K4 — Level 3A, Ngày 12: Hạ Tầng Cloud & Deployment (240 phút)
+
+> **Bài nộp của:** Nguyễn Xuân Trường Giang — MSSV `2A202602446`
 
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
 gọi được, có bảo mật, có giới hạn chi phí, và không sập khi bạn deploy bản mới.
